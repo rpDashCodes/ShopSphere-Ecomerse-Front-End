@@ -38,4 +38,4 @@ This project helped me improve my understanding of:
 <img src="./src/screenshots/landingPage.png"/>
 <img src="./src/screenshots/allProduct.png"/>
 <img src="./src/screenshots/prductDetail.png"/>
-<img src="./src/screenshots/responsive.png"/>
+<img src="./src/screenshots/responsive.png" width="30vw"/>
