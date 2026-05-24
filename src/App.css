@@ -1,0 +1,12 @@
+    @reference "tailwindcss";
+    .nav-link{
+        @apply
+        text-blue-700 
+          font-medium
+         hover:scale-110
+         p-1
+         sm:text-xl
+         sm:font-semibold
+         sm:p-2
+         ;
+    }
